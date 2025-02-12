@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-_A simple game I've implemented with C++ language, in this game, this game is played by one person and the computer, I've used a basic logic to make the computer win or tie the game by bruteforcing the choices and selecting the best choice for the next move, it's just for fun, so I hope yoy enjoy this game :)._
+_A simple game I've implemented with C++ language,this game is played by one person vs computer, I've used a basic logic to make the computer win or tie the game by bruteforcing the choices and selecting the best choice for the next move, it's just for fun, so I hope yoy enjoy this game :)._
 
 # How to use :
 
