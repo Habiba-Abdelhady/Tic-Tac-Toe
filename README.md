@@ -5,4 +5,4 @@ _A simple game I've implemented with C++ language, in this game, this game is pl
 
 _simply run the code attached in the repository on any C++ compiler in the terminal (it's nessesary to use terminal and not a splitted pages of input and output as the game is interactive)._
 
-Found a logical bug? easily contact me on email : habiba.a.elsaadani@gmail.com.
+Found a logical bug? easily contact me on : habiba.a.elsaadani@gmail.com.
